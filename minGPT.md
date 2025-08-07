@@ -1,4 +1,4 @@
-This txt file is going to be used to note down all the information about the nanoGPT.py file we have here
+This txt file is going to be used to note down all the information about the minGPT.py file we have here
 
 This goes over everything that we are implementing in this code and look into depth about how all of this has been implemented
 
