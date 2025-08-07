@@ -19,7 +19,7 @@ So the architecture is very similar to GPT-1 except all the normalizations are n
 They also integrated many dropouts, this was done to improve the model performance as this would help it make it work well on unseen data during training.
 
 
-## Layer Normalization[class LayerNorm](../LLM/minGPT.py#L13)
+## Layer Normalization[class LayerNorm](minGPT.py#L13)
 
 LayerNorm but with an optional bias. PyTorch doesn't support simply bias=False 
 - This function is used to create the layer normalization in minGPT
